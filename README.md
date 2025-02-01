@@ -16,7 +16,7 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 ## 📌 Projects  
 ### 🤖 Artificial Intelligence & Machine Learning  
 - **Titanic Prediction:** Supervised learning project predicting Titanic survival rates.  
-- **Deep Learning Transfer Learning:** Predicting fruit freshness.  
+- **Deep Learning Transfer Learning:** Working on Kaggle fruits dataset
 
 ### 🔌 Embedded Systems & Robotics  
 - **ESP32 LED Strip Control:** Web server app using ESP32 for LED strip control.  
