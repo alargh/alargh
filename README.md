@@ -8,7 +8,7 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 - **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, Seaborn, Pandas, Matplotlib, Hugging Face  
 - **Embedded Systems:** ESP32, STM32 (HAL), AVR (Atmel Studio), ArduinoIDE  
 - **Web Development:** Flask, SQL Databases, HTML, CSS  
-- **Robotics & Computer Vision:** OpenCV, PID, ROS  
+- **Robotics & Computer Vision:** OpenCV, ROS  
 - **Other Tools:** Git, Docker, Linux  
 
 ---
