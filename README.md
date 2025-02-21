@@ -15,8 +15,9 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 
 ## 📌 Projects  
 ### 🤖 Artificial Intelligence & Machine Learning  
-- **Titanic Prediction:** Supervised learning project predicting Titanic survival rates.  
-- **Deep Learning Transfer Learning:** Working on Kaggle fruits dataset
+- **Titanic Prediction:** Supervised Learning project predicting Titanic survival rates.
+- **Deep Learning Transfer Learning:** Applying convolutional neural networks (CNNs) with Transfer Learning for image classification on Kaggle fruits dataset
+- **Applications of AI for Anomaly Detection:** Using XGBoosting, AutoEncoders and GAN's to detect Anomalies in a dataset
 
 ### 🔌 Embedded Systems & Robotics  
 - **ESP32 LED Strip Control:** Web server app using ESP32 for LED strip control.  
@@ -30,7 +31,8 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 
 ## 📜 Certifications  
 - **NVIDIA Fundamentals of Deep Learning**  
-- **NVIDIA Rapid Application Development with Large Language Models (LLMs)**  
+- **NVIDIA Rapid Application Development with Large Language Models (LLMs)**
+- **NVIDIA Applications of AI for Anomaly Detection**
 - **Robotics Course:** Basics of electronics and AVR controllers programming.  
 
 ---
