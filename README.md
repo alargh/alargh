@@ -18,6 +18,8 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 - **Titanic Prediction:** Supervised Learning project predicting Titanic survival rates.
 - **Deep Learning Transfer Learning:** Applying convolutional neural networks (CNNs) with Transfer Learning for image classification on Kaggle fruits dataset
 - **Applications of AI for Anomaly Detection:** Using XGBoosting, AutoEncoders and GAN's to detect Anomalies in a dataset
+- **YOLO for Basketball game:**
+Using YOLOv11, OpenCV, and Scikit-learn to detect and track players and a ball, set unique player IDs, assigning teams and using K-Means clustering.
 
 ### 🔌 Embedded Systems & Robotics  
 - **ESP32 LED Strip Control:** Web server app using ESP32 for LED strip control.  
