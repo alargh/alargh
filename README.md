@@ -23,7 +23,8 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 
 ### 🔌 Embedded Systems & Robotics  
 - **ESP32 LED Strip Control:** Web server app using ESP32 for LED strip control.  
-- **Line Follower Robot:** Uses OpenCV, PID controller, and ROS.  
+- **Line Follower Robot:** Uses OpenCV, PID controller, and ROS.
+- **Intelligent traffic lights**: Traffic lights algorithm based on ratio of cars, implemented in C with Python to handle JSON
 
 ### 🖥️ Web Development & Databases  
 - **Flask Clinic Website:** A web application built using Flask for clinic management.  
