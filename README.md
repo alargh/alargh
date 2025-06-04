@@ -4,7 +4,7 @@
 I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and Web Development.**  
 
 ### 🚀 Skills & Interests  
-- **Languages:** Python, C, C++, SQL, Java  
+- **Languages:** Python, C, C++, SQL, Java, Rust
 - **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, Seaborn, Pandas, NumPy, Matplotlib, HuggingFace, LangChain
 - **Embedded Systems:** ESP32, STM32 (HAL), AVR (Atmel Studio), ArduinoIDE  
 - **Web Development:** Flask, SQL Databases, HTML, CSS  
