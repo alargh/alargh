@@ -38,6 +38,7 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 - **NVIDIA Fundamentals of Deep Learning**  
 - **NVIDIA Rapid Application Development with Large Language Models (LLMs)**
 - **NVIDIA Applications of AI for Anomaly Detection**
+- **NVIDIA Generative AI with Diffusion Models**
 - **Robotics Course:** Basics of electronics and AVR controllers programming.  
 
 ---
