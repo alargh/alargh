@@ -21,6 +21,7 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 - **Applications of AI for Anomaly Detection:** Using XGBoosting, AutoEncoders and GAN's to detect Anomalies in a dataset.
 - **YOLO for Basketball game:** Using YOLOv11, OpenCV, and Scikit-learn to detect and track players and a ball, set unique player IDs, assigning teams and using K-Means clustering for team classification.
 - **Concerts/Tours Domain NLP+RAG App:** Classifies and summarizes documents in the concerts/tours domain. The pipeline uses NLTK for text preprocessing, HuggingFace models for embeddings and LLM's, and Langchain for document retrieval and prompt generation. The summarized content is stored in a FAISS database vectorstore for efficient similarity-based retrieval.
+- **Reinforcement Learning DQN Snake Game** Snake game played by RL agent using Deep Q-Learning (DQN), where the snake learns to play through rewards and neural network updates. It uses a simple two-layer neural net, balances exploration and exploitation, and visualizes performance with Gnuplot.
 
 ### 🔌 Embedded Systems & Robotics  
 - **ESP32 LED Strip Control:** Web server app using ESP32 for LED strip control.  
