@@ -7,9 +7,9 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 - **Languages:** Python, C, C++, Java, Rust, SQL
 - **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, Seaborn, Pandas, NumPy, Matplotlib, HuggingFace, LangChain, LangGraph, NLTK
 - **Embedded Systems:** ESP32, STM32 (HAL), AVR (Atmel Studio), ArduinoIDE  
-- **Web Development:** Flask, SQL Databases, HTML, CSS  
+- **Web Development:** Flask, FastApi, AWS, SQL Databases, HTML, CSS  
 - **Robotics & Computer Vision:** OpenCV, YOLO, ROS  
-- **Other Tools:** Git, Docker, Linux  
+- **Other Tools:** Git, Docker, Linux
 
 ---
 
