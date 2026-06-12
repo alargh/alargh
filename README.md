@@ -47,7 +47,7 @@ I'm passionate about **Machine Learning, Deep Learning, Embedded Systems, and We
 
 ## 📫 Contact Me  
 ✉️ **Email:** [AlbertArnautovMail@gmail.com](mailto:AlbertArnautovMail@gmail.com)  
-🔗 **LinkedIn**: [[My LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/albert-arnautov-b6a2572bb/))
+🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/albert-arnautov-b6a2572bb/))
 
 ---
 
